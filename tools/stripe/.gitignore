@@ -1,0 +1,3 @@
+# Local helper binaries (Stripe CLI). Do not commit.
+tools/stripe/stripe.exe
+tools/stripe/*.exe

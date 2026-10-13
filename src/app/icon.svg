@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="TelesalesOS">
+  <defs>
+    <linearGradient id="t" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1157F0"/>
+      <stop offset="1" stop-color="#22DDFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#0B0F19"/>
+  <g transform="translate(18, 20) scale(0.92)">
+    <path
+      d="M34 0 H96 Q101 0 98 4 L90 18 Q88 21 84 21 H16 Q13 21 15 18 L28 3 Q30 0 34 0 Z"
+      fill="url(#t)"
+    />
+    <path
+      d="M44 26 H52 C66 26 78 36 78 52 V93 Q78 96 75 94 L46 79 Q44 78 44 76 Z"
+      fill="url(#t)"
+    />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+Getting ready...
+Ready! You are using Stripe API Version [2026-08-26.dahlia]. Your webhook signing secret is whsec_6ae04e5f13517179b588f55321662f0ec3f8586d73c3b77a0ef74474f59b66cb (^C to quit)
+time="Tue, 29 Sep 2026 20:13:05 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 20:27:52 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 20:31:33 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 20:38:56 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 20:46:20 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 21:01:06 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 21:04:47 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 21:08:29 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 21:15:52 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 21:34:20 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
+time="Tue, 29 Sep 2026 21:45:25 PDT" level=error msg="Error when writing ping message: websocket: close sent" prefix=websocket.Client.writePump
